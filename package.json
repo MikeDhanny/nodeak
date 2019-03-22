@@ -1,0 +1,33 @@
+{
+  "name": "test-halo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "express-flash": "^0.0.2",
+    "express-mongo-db": "^2.0.4",
+    "express-mongodb": "^0.0.4",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.1",
+    "flash": "^1.1.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanadiah/nodetoko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanadiah/nodetoko/issues"
+  },
+  "homepage": "https://github.com/nanadiah/nodetoko#readme"
+}
